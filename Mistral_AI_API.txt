@@ -1,0 +1,19 @@
+
+
+MistralAI:
+
+MistralAI API Key: aTLH3ol0C106cwFLymbSWjFIvb02Ktcd
+
+
+Codestral:
+
+Codestral API key: 6E5UHsogwNblf0IH0pGzRnJsBRW8BIIN
+
+Codestral Completion Endpoint: https://codestral.mistral.ai/v1/fim/completions
+
+Codestral Chat Endpoint: https://codestral.mistral.ai/v1/chat/completions
+
+
+Alpha Vintage:
+
+Alpha Vintage API key: 07PG776Z4SYL0BKB
